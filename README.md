@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwatobi Usman Adebanjo
-- 👀 I’m interested in Dotnet framework development(C#)
-- 🌱 I’m currently learning dot net core
+- 👀 I’m a dotnet(C#) developer
+- 🌱 I understand MVC architecture well, EFCORE, Working with repository patterns and dependecy injection
 - 💞️ I’m looking to collaborate 
 - 📫 reach me via my mail oluwatobilobalayeuthman@gmail.com
 
