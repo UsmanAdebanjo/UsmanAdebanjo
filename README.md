@@ -16,7 +16,7 @@ SQL| MSSQL | POSTGRESQL | Monolith | Microservice
 
 ### Certifications
 * Certificate in SQL April 2020 365 DATA SCIENCE
-* The Complete Guide To Build Rest Api's with ASP.NET and C# Markup : ![Udemy](https://tinyurl.com/2p8wv5ee)/50x50 "Title is optional")
+* The Complete Guide To Build Rest Api's with ASP.NET and C# Markup : ![Udemy](https://tinyurl.com/2p8wv5ee)/10x10 "Title is optional")
 
 
 <!---
