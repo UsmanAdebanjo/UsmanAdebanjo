@@ -19,8 +19,7 @@ C# | Javascript | Typescript
 ### Certifications and Trainings
 * Certificate in SQL April 2020 **365 DATA SCIENCE**
 * Certificate in git April 2020 **365 DATA SCIENCE**
-* The Complete Guide To Build Rest Api's with ASP.NET and C# Markup : ![Udemy](https://tinyurl.com/nvs5rbbh) "Title is optional")
-
+* The Complete Guide To Build Rest Api's with ASP.NET and C#
 
 <!---
 UsmanAdebanjo/UsmanAdebanjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
