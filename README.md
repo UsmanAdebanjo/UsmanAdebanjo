@@ -8,11 +8,13 @@ My pre and post graduate experience from the Fintech, Banking and Education sect
 2012-2017 Bachelor ofTechnology in Computer Science from Ondo StateUniversity of Science and Technology.
 
 ## Programming Languages
-
+C# | Javascript | Typescript
 ### Skills
-Dotnet | C# | Rest Api | EfCore| ASP.NET CORE 
-MVC Architecture | Repository Pattern | 
-SQL| MSSQL | POSTGRESQL | Monolith | Microservice
+* Dotnet | C# | ASP.NET CORE | .NetFramework
+* Design Patterns: MVC Architecture | Repository Pattern | SOLID | TDD |DDD
+* SQL| MSSQL | POSTGRESQL | 
+* Monolith | Microservice
+* 3rd party API Integration
 
 ### Certifications
 * Certificate in SQL April 2020 365 DATA SCIENCE
